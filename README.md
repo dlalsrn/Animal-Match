@@ -1,4 +1,4 @@
-# Fruit Avoid
+# Animal Match
 ![image](https://github.com/user-attachments/assets/b3148419-b5ea-40d9-96c5-5fe3f28f7cff)
 <br><br/>
 
