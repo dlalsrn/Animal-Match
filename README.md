@@ -57,6 +57,7 @@ https://velog.io/@lmg0052/series/Unity-Animal-Match
 
 ## 참고
 해당 프로젝트는 나도코딩님의 강의 영상을 참고하여 진행했음을 알립니다.
+
 https://www.youtube.com/watch?v=XhfB3ZS3JoM
 
 ## 연락처
