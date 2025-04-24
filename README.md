@@ -56,7 +56,7 @@ https://velog.io/@lmg0052/series/Unity-Animal-Match
 <br><br/>
 
 ## 참고
-본 게임은 골드메탈님의 강의 영상을 참고하여 만들었음을 알립니다.
+해당 프로젝트는 나도코딩님의 강의 영상을 참고하여 진행했음을 알립니다.
 https://www.youtube.com/watch?v=XhfB3ZS3JoM
 
 ## 연락처
