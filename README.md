@@ -55,7 +55,8 @@ https://velog.io/@lmg0052/series/Unity-Animal-Match
 - **게임 플레이 영상 링크**: https://youtube.com/shorts/tuPIKc5XShQ?feature=share
 <br><br/>
 
-## 참고 영상
+## 참고
+본 게임은 골드메탈님의 강의 영상을 참고하여 만들었음을 알립니다.
 https://www.youtube.com/watch?v=XhfB3ZS3JoM
 
 ## 연락처
